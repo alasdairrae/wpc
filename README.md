@@ -1,5 +1,6 @@
 # Constituency Cards
-##### A little open data project involving official MP portraits, electoral data, population data, geodata and a few other bits and bobs.
+
+**A little open data project involving official MP portraits, electoral data, population data, geodata and a few other bits and bobs.**
 
 Coming soon, I promise.
 
