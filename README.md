@@ -18,5 +18,5 @@ The underlying electoral data comes from the [House of Commons Library](https://
 
 For the colours, these are mostly the same as the ones the BBC use. However, for Independent MPs (who I have found difficult to keep track of, sorry!), I have used a pinkish colour that others have adopted, and for the Speaker I used the blue from the [Parliamentary Digital Service blog](https://pds.blog.parliament.uk/).
 
-**Alasdair Rae, August 2019
+**Alasdair Rae, August 2019**
 [@undertheraedar](https://twitter.com/undertheraedar) - please get in touch if you spot any errors.
