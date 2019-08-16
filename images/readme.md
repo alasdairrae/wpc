@@ -10,4 +10,8 @@ File name format is as follows: constituency then the country, then the winning 
 
 I hope you find these useful. Feel free to get in touch if you have any questions.
 
+![What the files look like](http://ajrae.staff.shef.ac.uk/img/wpc/google_drive_thumbs.PNG)
+
 ![List of files](http://ajrae.staff.shef.ac.uk/img/wpc/list_of_files.PNG)
+
+![I tested all this on multiple screens](http://ajrae.staff.shef.ac.uk/img/wpc/IMG-20190814-WA0008.jpeg)
