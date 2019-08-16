@@ -1,6 +1,6 @@
 # Constituency Cards
 
-**An open data project involving official MP portraits, electoral data, population data, geodata and a few other bits and bobs.**
+**An open data experiment involving MP portraits, electoral data, population data, geodata and a few other bits and bobs.**
 
 This is a spare time project that I'd been meaning to put together for a while, but hadn't got round to. But with a general election potentially looming, I thought I'd try to get it done over a few evenings and weekends. My intention was to put together a set of virtual 'constituency cards' - one for each Westminster constituency - that provided some basic information on each area, its MP and the last general election (or by-election). My underlying goal was to see if it was possible to bring together multiple open data sources, including the new official MP portraits, and create some useful information out of it all. The files in the [images folder](https://github.com/alasdairrae/wpc/tree/master/images) are the result. The intention is that they are used as a set of cards to be viewed on screen - that's why they're sized using a 16:9 ratio. Software? I did it all in [QGIS](https://qgis.org/en/site/).
 
