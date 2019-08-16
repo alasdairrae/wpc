@@ -1,6 +1,6 @@
 ## There is one file for each constituency. You'll notice the file names begin with the name of the constituency.
 
-In order to make it easier to flick between images and find what you're looking for, I've put all of them on Google Drive in [this folder](https://drive.google.com/drive/folders/1xPneIJtI4xWQhJ8TrxsCGHjGRcqCybKa). Look closely at each file name and you'll see it includes a few bits of useful information:
+In order to make it easier to flick between images and find what you're looking for, I've put all of them on Google Drive in [this folder](https://drive.google.com/drive/folders/1xPneIJtI4xWQhJ8TrxsCGHjGRcqCybKa_DELETE_THIS_TO_MAKE_IT_LIVE). Look closely at each file name and you'll see it includes a few bits of useful information:
 
 *New_Forest_East_(England)_Conservative_21995_majority_2017_declared_213_out_of_650.png*
 
