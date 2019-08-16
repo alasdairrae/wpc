@@ -9,6 +9,8 @@ This is a spare time project that I'd been meaning to put together for a while, 
 ## Read more about this 
 If you want to read more about this little project, including data, software, styling and all that, then head over to [my blog post on it](https://github.com/alasdairrae/wpc/tree/master/images), where I have explained it all in detail. But remember, I have not done this in any official capacity - it's really just an open data experiment to see how much useful information I could extract from a mix of raw data sources.
 
+![An example](http://ajrae.staff.shef.ac.uk/img/wpc/20190816_131448.jpg)
+
 ## Sources
 The MP photos were mostly sourced from the official portraits that were published by the Parlimanetary Digital Service [which you can find on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Official_United_Kingdom_Parliamentary_photographs_2017). These photos were released under a Creative Commons licence and their existence is one of the main motivations for me doing this - I think they're great and wanted to find a project I could integrate them into. The official MP portraits, unfortunately, only cover about 90% of MPs, but I didn't want to miss anyone out so I extracted the rest from public sources, including Wikipedia and Twitter. I think having the MP portraits adds a lot to the images and helps humanise them.
 
