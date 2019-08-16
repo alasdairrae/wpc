@@ -2,12 +2,12 @@
 
 **An open data experiment involving MP portraits, electoral data, population data, geodata and a few other bits and bobs.**
 
-[Click here](https://github.com/alasdairrae/wpc/tree/master/images) to go straight to the maps.
+[Click here](https://github.com/alasdairrae/wpc/tree/master/images) to go straight to the maps. Read more about how I did this [on my blog](http://www.statsmapsnpix.com/2019/08/constituency-cards.html)
 
 This is a spare time project that I'd been meaning to put together for a while, but hadn't got round to. However, with a general election potentially looming, I thought I'd try to get it done over a few evenings and weekends. My intention was to put together a set of virtual 'constituency cards' - one for each Westminster constituency - that provided some basic information on each area, its MP and the last general election (or by-election). My underlying goal was to see if it was possible to bring together multiple open data sources, including the new official MP portraits, and create some useful information out of it all. The files in the [images folder](https://github.com/alasdairrae/wpc/tree/master/images) are the result. The intention is that they are used as a set of cards to be viewed on screen - that's why they're sized using a 16:9 ratio. Software? I did it all in [QGIS](https://qgis.org/en/site/).
 
 ## Read more about this 
-If you want to read more about this little project, including data, software, styling and all that, then head over to [my blog post on it](https://github.com/alasdairrae/wpc/tree/master/images), where I have explained it all in detail. But remember, I have not done this in any official capacity - it's really just an open data experiment to see how much useful information I could extract from a mix of raw data sources. If you're looking for more in-depth information on each constituency, in an interactive format, then I recommend you look at the [Constituency Dashboard tool](https://commonslibrary.parliament.uk/local-data/constituency-dashboard/) developed by the team at the House of Commons Library.
+If you want to read more about this little project, including data, software, styling and all that, then head over to [my blog post on it](http://www.statsmapsnpix.com/2019/08/constituency-cards.html), where I have explained it all in detail. But remember, I have not done this in any official capacity - it's really just an open data experiment to see how much useful information I could extract from a mix of raw data sources. If you're looking for more in-depth information on each constituency, in an interactive format, then I recommend you look at the [Constituency Dashboard tool](https://commonslibrary.parliament.uk/local-data/constituency-dashboard/) developed by the team at the House of Commons Library.
 
 ![An example](http://ajrae.staff.shef.ac.uk/img/wpc/20190816_131448.jpg)
 
