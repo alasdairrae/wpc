@@ -9,3 +9,5 @@ File name format is as follows: constituency then the country, then the winning 
 **On each constituency card, the constituency named at the top of the images is displayed in the centre of the map frame and surrounding areas are dimmed. Place labels are shown for a selection of places within each constituency, plus any cities nearby. I have also added builting footprints to the maps so you can see the underlying settlement pattern.**
 
 I hope you find these useful. Feel free to get in touch if you have any questions.
+
+![List of files](http://ajrae.staff.shef.ac.uk/img/wpc/list_of_files.PNG)
