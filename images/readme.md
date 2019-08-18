@@ -14,4 +14,4 @@ I hope you find these useful. Feel free to get in touch if you have any question
 
 ![List of files](http://ajrae.staff.shef.ac.uk/img/wpc/list_of_files.PNG)
 
-![I tested all this on multiple screens](http://ajrae.staff.shef.ac.uk/img/wpc/IMG-20190814-WA0008.jpeg)
+![I tested all this on multiple screens](https://github.com/alasdairrae/wpc/blob/master/images/1_pct_or_less_swing_resized.png)
