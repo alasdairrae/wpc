@@ -16,9 +16,10 @@ The MP photos were mostly sourced from the official portraits that were publishe
 
 The underlying electoral data comes from the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979) - at the bottom of the linked page - and also from  [mySociety](https://www.mysociety.org/wehelpyou/see-a-list-of-every-mp-in-parliament/) who, by the way, do amazing work more generally. The underlying GIS data comes from [ONS](http://geoportal.statistics.gov.uk/) and [Ordnance Survey](https://www.ordnancesurvey.co.uk/opendatadownload/products.html). The information on distance to Parliament and area of each constituency are figures I calculated myself in QGIS. 
 
-For the colours, these are mostly the same as the ones the BBC use. However, for Independent MPs (who I have found difficult to keep track of, sorry!), I have used a pinkish colour that others have adopted, and for the Speaker I used the blue from the [Parliamentary Digital Service blog](https://pds.blog.parliament.uk/).
+For the colours, these are mostly the same as the ones the BBC use. However, for Independent MPs (who I have found difficult to keep track of, sorry!), I have used a pinkish colour that others have adopted, and for the Speaker I used the blue from the [Parliamentary Digital Service blog](https://pds.blog.parliament.uk/). Thanks to Philip Brown at the University of Sheffield for helping with all this.
 
 
 **Alasdair Rae, August 2019**
+-updated 14 Nov 2019 to add revised file
 
 [@undertheraedar](https://twitter.com/undertheraedar) - please get in touch if you spot any errors.
