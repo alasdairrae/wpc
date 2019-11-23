@@ -20,6 +20,6 @@ For the colours, these are mostly the same as the ones the BBC use. However, for
 
 
 **Alasdair Rae, August 2019**
--updated 14 Nov 2019 to add revised file
+-updated 22 Nov 2019 to add revised file to files folder
 
 [@undertheraedar](https://twitter.com/undertheraedar) - please get in touch if you spot any errors.
