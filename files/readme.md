@@ -1,4 +1,4 @@
-# Files I used to make the constituency cards
+## Files I used to make the constituency cards
 
 **UPDATE 27 November 2019:** the most up to date file is the Excel file above (wpc_2019_flat_file_v9.7_22_nov_2019.xlsx). I have also added a clean constituency shapefile without data that you can join this to (uk_wpc_2019_without_data_v9.zip). Not long after I began this little side project, lots of party affiliations changed but I have left the original (v7) files above for reference. Thanks again to Philip Brown for helping with this. The most recent file includes mid-2018 population estimates for constituencies (total population, plus age groups of 18-24, 25-49, 50-64 and 65 plus) as well as EU referendum results/estimates for all UK constituencies. Where the exact figures are not known, they are based on [Chris Hanretty's constituency estimates](https://medium.com/@chrishanretty/final-estimates-of-the-leave-vote-or-areal-interpolation-and-the-uks-referendum-on-eu-membership-5490b6cab878).
 
@@ -7,3 +7,13 @@ The geo files I've shared here are the constituency files for the whole UK with 
 I've also shared a simple csv file, without any geodata attached.
 
 [Just take me to the maps](https://drive.google.com/drive/folders/1xPneIJtI4xWQhJ8TrxsCGHjGRcqCybKa?usp=sharing).
+
+
+## Sources and licencing
+The MP photos were mostly sourced from the official portraits that were published by the Parlimanetary Digital Service [which you can find on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Official_United_Kingdom_Parliamentary_photographs_2017). These photos were released under a Creative Commons licence and their existence is one of the main motivations for me doing this - I think they're great and wanted to find a project I could integrate them into. The official MP portraits, unfortunately, only cover about 90% of MPs, but I didn't want to miss anyone out so I extracted the rest from public sources, including Wikipedia and Twitter. I think having the MP portraits adds a lot to the images and helps humanise them.
+
+The underlying electoral data comes from the [House of Commons Library](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979) - at the bottom of the linked page - and also from  [mySociety](https://www.mysociety.org/wehelpyou/see-a-list-of-every-mp-in-parliament/) who, by the way, do amazing work more generally. The underlying GIS data comes from [ONS](http://geoportal.statistics.gov.uk/) and [Ordnance Survey](https://www.ordnancesurvey.co.uk/opendatadownload/products.html). The information on distance to Parliament and area of each constituency are figures I calculated myself in QGIS. 
+
+For the colours, these are mostly the same as the ones the BBC use. However, for Independent MPs (who I have found difficult to keep track of, sorry!), I have used a pinkish colour that others have adopted, and for the Speaker I used the blue from the [Parliamentary Digital Service blog](https://pds.blog.parliament.uk/). Thanks to Philip Brown at the University of Sheffield for helping with all this.
+
+**Source for constituency EU Referendum data:** “Areal interpolation and the UK’s referendum on EU membership”, Chris Hanretty, Journal Of Elections, Public Opinion And Parties, Online Early Access, http://dx.doi.org/10.1080/17457289.2017.1287081 (this dataset was made available under a CC0 Public Domain licence). https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4DLWJ
