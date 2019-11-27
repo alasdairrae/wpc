@@ -18,8 +18,10 @@ The underlying electoral data comes from the [House of Commons Library](https://
 
 For the colours, these are mostly the same as the ones the BBC use. However, for Independent MPs (who I have found difficult to keep track of, sorry!), I have used a pinkish colour that others have adopted, and for the Speaker I used the blue from the [Parliamentary Digital Service blog](https://pds.blog.parliament.uk/). Thanks to Philip Brown at the University of Sheffield for helping with all this.
 
+**Source for constituency EU Referendum data:** “Areal interpolation and the UK’s referendum on EU membership”, Chris Hanretty, Journal Of Elections, Public Opinion And Parties, Online Early Access, http://dx.doi.org/10.1080/17457289.2017.1287081
 
-**Alasdair Rae, August 2019**
--updated 22 Nov 2019 to add revised file to files folder
+
+**Alasdair Rae, November 2019**
+-updated 27 Nov 2019 to add revised file to files folder
 
 [@undertheraedar](https://twitter.com/undertheraedar) - please get in touch if you spot any errors.
