@@ -21,7 +21,7 @@ For the colours, these are mostly the same as the ones the BBC use. However, for
 **Source for constituency EU Referendum data:** “Areal interpolation and the UK’s referendum on EU membership”, Chris Hanretty, Journal Of Elections, Public Opinion And Parties, Online Early Access, http://dx.doi.org/10.1080/17457289.2017.1287081 (this dataset was made available under a CC0 Public Domain licence). https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4DLWJ
 
 
-**Alasdair Rae, 27 November 2019**
+**Alasdair Rae, 04 December 2019**
 
 
 [@undertheraedar](https://twitter.com/undertheraedar) - please get in touch if you spot any errors.
