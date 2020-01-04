@@ -1,4 +1,6 @@
-# Constituency Cards (now archived, not planning to update this)
+# Constituency Cards
+
+**This has not been updated following the 2019 General Election, so consider this archived now**
 
 **An open data experiment involving MP portraits, electoral data, population data, geodata and a few other bits and bobs. For the most recent data, go to the files folder and you'll see the most recent file version, including a constituency geofile to join it to. I've provided a custom constituency file that shows the loughs of Northern Ireland, because otherwise it just doesn't look right.**
 
